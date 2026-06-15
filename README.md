@@ -120,13 +120,5 @@ React, TypeScript, Firebase, Tailwind CSS, Google Maps API, MSW
 </a>
 
 ---
-
-## My Focus
-
-```txt
-사용자 경험 개선
-├─ 초기 진입 속도 개선
-├─ 렌더링 병목 분석
-├─ 서버 상태 관리
-├─ 데이터 로딩 구조 개선
-└─ 실제 사용자 피드백 기반 개선
+GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=strdeok&show_icons=true&theme=default&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strdeok&layout=compact&theme=default&hide_border=true" /> </div>
